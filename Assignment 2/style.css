@@ -1,0 +1,79 @@
+/* .container{
+    background-color: aqua;
+    width: 100%;
+    height: 150vh;
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    grid-template-rows: repeat(2,200px);
+    grid-auto-rows: 100px;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+}
+#abc{
+    justify-self: center;
+}
+.item1{
+    grid-row: 1/3;
+    grid-column: 2/4;
+} */
+/* .container{
+    background-color: aqua;
+    width: 100%;
+    height: 150vh;
+    display: grid;
+    grid-template-areas: 'a a a b c'
+    'd d e f f'
+    'g h h f f'
+    'i i j j j';
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+}
+#abc{
+    justify-self: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-content: center;
+}
+.item1{
+    grid-area: a;
+    background-color: yellow;
+}
+.item2{
+    grid-area: b;
+    background-color: aquamarine;
+}
+.item3{
+    grid-area: c;
+    background-color: brown;
+}
+.item4{
+    grid-area: d;
+    background-color: blueviolet;
+}
+.item5{
+    grid-area: e;
+    background-color: blue;
+}
+.item6{
+    grid-area: f;
+    background-color: blanchedalmond;
+}
+.item7{
+    grid-area: g;
+    background-color: dimgrey;
+}
+.item8{
+    grid-area: h;
+    background-color: deeppink;
+}
+.item9{
+    grid-area: i;
+    background-color: crimson;
+}
+.item10{
+    grid-area: j;
+    background-color: red;
+} */
